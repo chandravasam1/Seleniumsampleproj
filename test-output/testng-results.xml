@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60" started-at="2019-06-29T13:12:16Z" finished-at="2019-06-29T13:12:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60" started-at="2019-06-29T13:12:16Z" finished-at="2019-06-29T13:12:16Z">
+      <class name="Test1.Class123">
+        <test-method status="PASS" signature="teardown()[pri:-2, instance:Test1.Class123@614c5515]" name="teardown" duration-ms="14" started-at="2019-06-29T13:12:16Z" finished-at="2019-06-29T13:12:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="login()[pri:-1, instance:Test1.Class123@614c5515]" name="login" duration-ms="1" started-at="2019-06-29T13:12:16Z" finished-at="2019-06-29T13:12:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Test1.Class123@614c5515]" name="setup" duration-ms="1" started-at="2019-06-29T13:12:16Z" finished-at="2019-06-29T13:12:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- Test1.Class123 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
